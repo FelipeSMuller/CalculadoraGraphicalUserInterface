@@ -1,5 +1,5 @@
 # CalculadoraGraphicalUserInterface
-Projeto de uma calculadora utilizando Graphical User Interface,
+Construindo uma calculadora utilizando Graphical User Interface,
 primeiro projeto utilizando a classe Swing em Java, 
 nesse momento os primeiros elementos foram dispostos no frame, 
 junto com suas respectivas cores e espaçamentos. Projeto em construção..
